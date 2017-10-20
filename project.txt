@@ -1,7 +1,0 @@
-git is a distributed version controll system.
-git commands.
-1.git add
-2.git status
-3.git merge
-4.git rebase
-5.git bisect
