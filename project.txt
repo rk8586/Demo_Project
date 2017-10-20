@@ -1,0 +1,2 @@
+git is a DVCS
+we can collarate with others easily
