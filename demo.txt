@@ -1,6 +1,3 @@
 wlcome to git in AWS ubuntu system
 i have made change in this file using git hub.
 changing the data again.
-git configuration is done by SSH.
-ssh-keygen
-copy the .pub file into the setting of github.
